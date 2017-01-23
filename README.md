@@ -12,3 +12,11 @@ Copy to /etc/init.d:
 
 Verify:
 * $ chkconfig --list will show services
+
+**OpenDJ**
+* $ sudo chmod 755 /etc/init.d/opendj
+* $ sudo chkconfig --add opendj
+* $ sudo chkconfig opendj on
+
+Verify:
+* $ chkconfig --list will show services
