@@ -3,7 +3,8 @@
 
 **Usage**
 
-Copy to /etc/init.d:
+* Copy to /etc/init.d:
+* Edit the files so that they are appropriate for your environment (e.g. update paths)
 
 **OpenAM**
 * $ sudo chmod 755 /etc/init.d/openam
