@@ -5,7 +5,7 @@
 
 Copy to /etc/init.d:
 
-** OpenAM **
+**OpenAM**
 * $ sudo chmod 755 /etc/init.d/openam
 * $ sudo chkconfig --add openam
 * $ sudo chkconfig openam on
