@@ -1,6 +1,6 @@
 # autostart
 /etc/init.d scripts to autostart the IAM services
 
-*Usage*
+**Usage**
 
 Copy to /etc/init.d:
